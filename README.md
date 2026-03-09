@@ -1,4 +1,5 @@
 #🚀 Opendoor AI: Why Do 30% of Perfect Matches Slip Away?
+
 An Investigation into Funnel Bottlenecks and the 24-Hour Hiring Promise
 📖 The Backstory
 At Opendoor AI, we live by a bold promise: High-speed hiring within 24 hours. Our AI does the heavy lifting, matching top-tier talent with the right roles in seconds.
